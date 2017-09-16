@@ -24,34 +24,14 @@ In tutorial mainly used Bootstrap template.
 
 When creating your html and css files, be sure to follow the [Udacity HTML/CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/).
 
+***
 
+Want to test with different browsers in the cloud? Try BrowserStack.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***
 
-```markdown
-Syntax highlighted code block
+Want to learn more about the viewport? Here's what the Mozilla Developer Network has to say.
 
-# Header 1
-## Header 2
-### Header 3
+***
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LauraHesse/p2-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)

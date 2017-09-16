@@ -26,11 +26,11 @@ When creating your html and css files, be sure to follow the [Udacity HTML/CSS S
 
 ***
 
-Want to test with different browsers in the cloud? Try BrowserStack.
+Want to test with different browsers in the cloud? [Try BrowserStack](https://www.browserstack.com/)
 
 ***
 
-Want to learn more about the viewport? Here's what the Mozilla Developer Network has to say.
+Want to learn more about the viewport? Here's what the [Mozilla Developer Network has to say.](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 
 ***
 

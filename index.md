@@ -57,4 +57,4 @@ Want to learn more about the viewport? Here's what the [Mozilla Developer Networ
 ![srcset][srcset.png]
 
 
-''' <img src="image_2x.jpg" srcset="image_2x.jpg 2x, image_1x.jpg 1x" alt="a cool image"> '''
+code example  <img src="image_2x.jpg" srcset="image_2x.jpg 2x, image_1x.jpg 1x" alt="a cool image"> 

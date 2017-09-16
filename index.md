@@ -46,4 +46,5 @@ Want to learn more about the viewport? Here's what the [Mozilla Developer Networ
 
 ### Image Compression
 
-
+[PageSpeed Insights example](https://developers.google.com/speed/pagespeed/insights/)
+[PageSpeed Node module](https://github.com/addyosmani/psi/)

@@ -35,3 +35,15 @@ Want to learn more about the viewport? Here's what the [Mozilla Developer Networ
 ***
 
 [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+
+
+***
+
+### Image Optimization Environment
+
+[ImageMagick](http://www.imagemagick.org/script/index.php)
+[Simple ImageMagick installer for Mac](http://cactuslab.com/imagemagick/)
+
+### Image Compression
+
+

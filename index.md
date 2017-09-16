@@ -1,17 +1,16 @@
 ## Grid Based Design - Framework
 
-[FLEX, FLEX, FLEX](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
-[FLEX WRAP](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap)
-
-[Cameron's Frame Version](https://www.udacity.com/api/nodes/2872198560/supplemental_media/frameworkzip/download?_ga=1.231106904.672083044.1467344711)
+- [FLEX, FLEX, FLEX](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
+- [FLEX WRAP](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap)
+- [Cameron's Frame Version](https://www.udacity.com/api/nodes/2872198560/supplemental_media/frameworkzip/download?_ga=1.231106904.672083044.1467344711)
 
 ### Choosing A Framework
 
-Bootstrap: http://getbootstrap.com/ 
-Foundation: http://foundation.zurb.com/ 
-Yaml: http://www.yaml.de/ 
-960 Grid: http://960.gs/ 
-Susy: http://susy.oddbird.net/ 
+- Bootstrap: http://getbootstrap.com/ 
+- Foundation: http://foundation.zurb.com/ 
+- Yaml: http://www.yaml.de/ 
+- 960 Grid: http://960.gs/ 
+- Susy: http://susy.oddbird.net/ 
 
 In tutorial mainly used Bootstrap template.
 

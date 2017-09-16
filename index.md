@@ -39,12 +39,13 @@ Want to learn more about the viewport? Here's what the [Mozilla Developer Networ
 
 ***
 
-### Image Optimization Environment
+## Image Optimization Environment
 
-[ImageMagick](http://www.imagemagick.org/script/index.php)
-[Simple ImageMagick installer for Mac](http://cactuslab.com/imagemagick/)
+- [ImageMagick](http://www.imagemagick.org/script/index.php)
+- [Simple ImageMagick installer for Mac](http://cactuslab.com/imagemagick/)
 
-### Image Compression
+## Image Compression
 
-[PageSpeed Insights example](https://developers.google.com/speed/pagespeed/insights/)
-[PageSpeed Node module](https://github.com/addyosmani/psi/)
+- [https://imageoptim.com/mac](https://imageoptim.com/mac)
+- [PageSpeed Insights example](https://developers.google.com/speed/pagespeed/insights/)
+- [PageSpeed Node module](https://github.com/addyosmani/psi/)

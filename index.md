@@ -49,3 +49,8 @@ Want to learn more about the viewport? Here's what the [Mozilla Developer Networ
 - [https://imageoptim.com/mac](https://imageoptim.com/mac)
 - [PageSpeed Insights example](https://developers.google.com/speed/pagespeed/insights/)
 - [PageSpeed Node module](https://github.com/addyosmani/psi/)
+
+## Srcset
+
+- srcset with w values(http://udacity.github.io/responsive-images/examples/3-03/srcsetWValues/)
+- srcset with w values, 50vw(http://udacity.github.io/responsive-images/examples/3-03/srcsetWValues50vw/)

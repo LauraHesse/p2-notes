@@ -52,9 +52,12 @@ Want to learn more about the viewport? Here's what the [Mozilla Developer Networ
 
 ## Srcset
 
-- srcset with w values(http://udacity.github.io/responsive-images/examples/3-03/srcsetWValues/)
-- srcset with w values, 50vw(http://udacity.github.io/responsive-images/examples/3-03/srcsetWValues50vw/)
+- [srcset with w values](http://udacity.github.io/responsive-images/examples/3-03/srcsetWValues/)
+- [srcset with w values, 50vw](http://udacity.github.io/responsive-images/examples/3-03/srcsetWValues50vw/)
 ![srcset][srcset.png]
 
 
-code example  <img src="image_2x.jpg" srcset="image_2x.jpg 2x, image_1x.jpg 1x" alt="a cool image"> 
+code example  
+```
+<img src="image_2x.jpg" srcset="image_2x.jpg 2x, image_1x.jpg 1x" alt="a cool image"> 
+```
